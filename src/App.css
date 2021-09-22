@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  background-image: url("https://static.vecteezy.com/ti/vetor-gratis/p1/2207827-fundo-neon-abstrato-gr%C3%A1tis-vetor.jpg");
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
