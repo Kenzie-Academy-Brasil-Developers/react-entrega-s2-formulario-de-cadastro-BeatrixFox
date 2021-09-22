@@ -57,7 +57,7 @@ const Form = () => {
   const classes = useStyles();
 
   return (
-    <Container className={classes.styleForm} maxWidth="xs">
+    <Container className={classes.styleForm} maxWidth="sm">
       <Paper className={classes.paper}>
         <form onSubmit={handleSubmit(onSubmitForm)}>
           <TextField

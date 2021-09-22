@@ -4,7 +4,7 @@ import Form from "../../components/Form/Form";
 const Home = () => {
   const useStyles = makeStyles((theme) => ({
     container: {
-      margin: "50px",
+      margin: "50px auto 10px",
     },
   }));
 
